@@ -1,0 +1,40 @@
+body {
+  
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(151, 167, 182, 0.815);
+  }
+
+h1{
+    margin: auto;
+    width: 50%;
+    
+    padding: 10px;
+}
+
+.container{
+
+    width: 200vh;
+    
+    padding: 20px;
+    display: flex;
+    height: 100%;
+    height: 110vh;
+}
+
+.box1{
+   
+    width: 40%;
+    
+    padding: 10px;
+    
+}
+
+.box2{
+    
+    width: 40%;
+    
+    padding: 10px;
+    
+}
+
