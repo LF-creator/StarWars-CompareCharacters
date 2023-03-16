@@ -1,3 +1,7 @@
+/*------------------------OBS--------------------Denna kod kan vara lite långsam!-------------OBS-----------------*/
+
+
+
 //Skapar en klass med olika atributer
 class Character {
   constructor(name, gender, height, mass, hairColor, skinColor, eyeColor, movies, homeworld, vehicles, starships, movieswith) {
